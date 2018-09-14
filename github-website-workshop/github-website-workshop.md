@@ -100,10 +100,10 @@ When you created a new Jekyll site, it automatically created some files and dire
 
 ```
 _config.yml     Main config settings for the site
-Gemfile        List of Gem dependencies
+Gemfile         List of Gem dependencies
 _posts          Directory for blog posts
 _site           Directory for writing files
-index.md       Site home page
+index.md        Site home page
 ```
 
 ## Editing basic site info
