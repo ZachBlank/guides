@@ -73,6 +73,15 @@ Technically, you could use any method for building out your website. However, Gi
 
 1.  Install Bundler and Jekyll:
 
+    In the root website directory, create a file called 'Gemfile' and add the following:
+
+    ```
+    source "https://rubygems.org"
+    gem "github-pages", group: :jekyll_plugins
+    ```
+
+    Save and exit the file.
+
     `gem install bundler and jekyll`
 
 2.  Make sure your pwd is in the root of your GitHub website, and create a new Jekyll site in that directory:
