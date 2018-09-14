@@ -1,6 +1,8 @@
 Creating a Website & Portfolio on GitHub
 ========================================
 
+Bit.ly shortlink: https://bit.ly/2Ok8PTo
+
 # Prerequisites
 
 You will need the following for this workshop:
