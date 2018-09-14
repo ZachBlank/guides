@@ -154,3 +154,21 @@ When you are ready to commit your local changes to your site at username.github.
 `git push -u origin master`
 
 In your browser, go to https://username.github.io to see the committed changes.
+
+## Going even further beyond
+
+There are always ways you can improve your website! Here are a couple suggestions:
+
+1.  Use CloudFlare to speed up your website response times
+
+    See: https://scotch.io/tutorials/jekyll-github-pages-and-cloudflare-for-pagespeed-win
+
+2.  Add a custom domain to your website to personalize it even further
+
+    See: https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+
+3.  Check out more Jekyll themes to create additional pages for your website (presentations, blogs, etc)
+
+    See:
+    * http://jekyllthemes.org/
+    * https://github.com/jekyll/jekyll/wiki/Themes
