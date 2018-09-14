@@ -21,6 +21,8 @@ You will need the following for this workshop:
 
 Note: The GitHub Desktop client is available at https://desktop.github.com/. However, this workshop will primarily use the git terminal commands.
 
+Note 2: Windows 10 users may find it easier to install the Ubuntu Linux subsystem from the Windows store and use that to complete this workshop.
+
 # Workshop
 
 ## Configuring your git account
@@ -94,7 +96,52 @@ _site           Directory for writing files
 _index.md       Site home page
 ```
 
-Out of the box, Jekyll comes with some pre-installed themes. You can find more by searching online.
+## Editing basic site info
+
+You can edit `_config.yml` and change properties such as the site title, site URL, email, etc.
+
+## Creating pages
+
+### Creating a contact page
+
+If you know Markdown, then you can start making pages immediately!
+
+Lets create a simple contact page within your Jekyll site. In the root directory of your GitHub site (username.github.io/), create a file called 'contact.md'.
+
+Fill the file with the following text:
+
+```
+---
+layout: page
+title: "Contact"
+---
+Name: Zach Blankinship
+GitHub: [@ZachBlank](https://github.com/ZachBlank)
+Twitter: [@ZachBlank_](https://twitter/ZachBlank_)
+LinkedIn: [@zach-blankinship](https://www.linkedin.com/in/zach-blankinship-426b97104/)
+```
+
+Save and exit this file.
+
+### Creating a resume page
+
+You can either create your resume in Markdown and serve it directly on your site, or you can even have Jekyll serve pre-made document files for you!
+
+In the root directory of your GitHub site, create a file called 'resume.md'
+
+```
+---
+layout: page
+title: "Resume"
+---
+View [my resume](./mydocs/resume.pdf)
+```
+
+Save and exit this file.
+
+### Viewing local changes
+
+Reload your local site at http://localhost:4000/. You should now have page headers for 'Contact' and 'Resume'.
 
 ## Committing your site changes to GitHub
 
