@@ -22,7 +22,7 @@ You will need the following for this workshop:
     - Arch: `pacman -S ruby`
 
 Note:
-* The GitHub Desktop client is available at https://desktop.github.com/. However, this workshop will primarily use the git terminal commands.
+* GitHub also offers a [desktop GUI client](https://desktop.github.com). However, this workshop will primarily use the git terminal commands.
 * Windows 10 users may find it easier to install the Ubuntu Linux subsystem from the Windows store and use that to complete this workshop.
 
 Don't know git? Check out this [simple startup guide](https://rogerdudler.github.io/git-guide/)!
