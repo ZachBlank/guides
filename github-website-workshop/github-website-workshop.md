@@ -9,7 +9,7 @@ You will need the following for this workshop:
 
 1. Sign up for a free GitHub account:  https://github.com/join
 2. Download a git client:
-    - Windows: https://gitforwindows.org/
+    - Windows: https://git-scm.com/downloads or https://gitforwindows.org/
     - Mac OS: https://brew.sh/, and `brew install git`
     - Ubuntu: `apt-get install git`
     - Fedora: `dnf install git`
