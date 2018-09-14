@@ -43,21 +43,23 @@ After your install git, run these preliminary commands (username = your GitHub u
 
     b.  Clone it to your local machine (username = your GitHub username):
 
-        `git clone https://github.com/username/username.github.io`
+        ```
+        git clone https://github.com/username/username.github.io
+        ```
 
     c.  Add an index.html:
 
-        `cd username.github.io`
-
-        `echo "Hello World" > index.html`
-
+        ```
+        cd username.github.io
+        echo "Hello World" > index.html
+        ```
     d.  Push it:
 
-        `git add --all`
-
-        `git commit -m "Initial commit"`
-
-        `git push -u origin master`
+        ```
+        git add --all
+        git commit -m "Initial commit"
+        git push -u origin master
+        ```
 
 2.  In a browser, go to https://username.github.io (username = your GitHub username).
 
