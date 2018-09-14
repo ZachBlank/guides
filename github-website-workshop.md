@@ -155,7 +155,7 @@ When you are ready to commit your local changes to your site at username.github.
 
 In your browser, go to https://username.github.io to see the committed changes.
 
-## Going even further beyond
+## To go even further beyond
 
 There are always ways you can improve your website! Here are a couple suggestions:
 
