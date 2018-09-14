@@ -71,7 +71,7 @@ You've just created a website!
 
 To create the actual content of your website, we can use Jekyll, a popular framework for building static web pages.
 
-Technically, you could use any method for building out your website. However, GitHub has an abundant amount of documentation for Jekyll already at https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/. Therefore, we will use Jekyll in this workshop.
+Technically, you could use any method for building out your website. However, GitHub has an [abundant amount of documentation for Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages). Therefore, we will use Jekyll in this workshop.
 
 1.  Install Bundler and Jekyll:
 
