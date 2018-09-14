@@ -37,21 +37,21 @@ After your install git, run these preliminary commands (username = your GitHub u
 
 1.  Go to https://pages.github.com/ and follow the instructions for creating your repository. This is where your website will be hosted.
 
-    Click on 'User or organization site' and following the instructions for creating and committing to your repository.
+Click on 'User or organization site' and following the instructions for creating and committing to your repository.
 
-    a.  Create your repostiory on the GitHub website.
+a.  Create your repostiory on the GitHub website.
 
-    b.  Clone it to your local machine (username = your GitHub username):
+b.  Clone it to your local machine (username = your GitHub username):
 
 `git clone https://github.com/username/username.github.io`
 
-    c.  Add an index.html:
+c.  Add an index.html:
 
 ```
 cd username.github.io
 echo "Hello World" > index.html
 ```
-    d.  Push it:
+d.  Push it:
 
 ```
 git add --all
