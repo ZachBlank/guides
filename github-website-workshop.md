@@ -79,7 +79,7 @@ Technically, you could use any method for building out your website. However, Gi
 
 3.  Start your new Jekyll demo site:
 
-    `bundle exec jekyll serve`
+    `bundle exec jekyll serve --watch`
 
 You will find your newly created site being served at http://localhost:4000.
 
