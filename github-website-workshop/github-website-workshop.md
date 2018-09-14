@@ -82,7 +82,7 @@ Technically, you could use any method for building out your website. However, Gi
 
     Save and exit the file.
 
-    `gem install bundler and jekyll`
+    `gem install bundler jekyll`
 
 2.  Make sure your pwd is in the root of your GitHub website, and create a new Jekyll site in that directory:
 
