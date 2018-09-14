@@ -11,7 +11,7 @@ You will need the following for this workshop:
     - Mac OS: https://brew.sh/, and `brew install git`
     - Ubuntu: `apt-get install git`
     - Fedora: `dnf install git`
-    - Arch: pacman -S git
+    - Arch: `pacman -S git`
 3. Download Ruby:
     - Windows: https://rubyinstaller.org/
     - Mac OS: `brew install ruby`
